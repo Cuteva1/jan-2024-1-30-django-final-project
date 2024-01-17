@@ -1,0 +1,5 @@
+(venv) PS D:\jan-2024-1-30-django-final-project> python manage.py createsuperuser
+
+
+Username (leave blank to use 'dell'): admin
+Email address: i@g.com
